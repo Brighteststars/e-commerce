@@ -3,4 +3,6 @@
 脚手架: vue-cli 3.0 </br>
 ### 开发框架: vue + element-ui </br>
 ### 开发核心: axios封装 less es6 , element-ui插件的运用, css 绘制图标</br> </br>
+#### vscode中,终端编译命令: npm run serve </br>
+#### 电商项目,上传了src文件夹,包含了核心的开发组件,js文件;使用本项目需要安装vue-cli脚手架 </br> </br>
 <img src="https://github.com/Brighteststars/e-commerce/blob/master/images/4.png" />
