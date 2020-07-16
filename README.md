@@ -7,10 +7,10 @@
 #### 测试环境: 火狐浏览器 </br>
 #### 电商项目,上传了src文件夹,包含了核心的开发组件,js文件;使用本项目需要安装vue-cli脚手架 </br> 
 #### 登录模块中,在localStorage中存储了服务端传的token,每次访问后端都会在http请求头中加上token,进行jwt认证 </br></br>
-<img src="https://github.com/Brighteststars/e-commerce/blob/master/images/4.png" /> </br>
+<img src="https://github.com/Brighteststars/e-commerce/blob/master/images/4.png" /> </br></br>
 
-#### 下方是项目运行视图 </br>
-<img src="https://github.com/Brighteststars/e-commerce/blob/master/images/1.png" /> </br>
-<img src="https://github.com/Brighteststars/e-commerce/blob/master/images/2.png" /> </br>
-#### vscode项目结构截图 </br>
+#### 下方是项目运行视图 </br></br>
+<img src="https://github.com/Brighteststars/e-commerce/blob/master/images/1.png" /> </br></br>
+<img src="https://github.com/Brighteststars/e-commerce/blob/master/images/2.png" /> </br></br>
+#### vscode项目结构截图 </br></br>
 <img src="https://github.com/Brighteststars/e-commerce/blob/master/images/3.png" /> </br>
